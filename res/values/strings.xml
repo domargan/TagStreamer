@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TagReader</string>
+    <string name="action_settings">Settings</string>
+    <string name="close">Close</string>
+    <string name="exit">Exit</string>
+    <string name="playpause">Play and pause button</string>
+    <string name="scan">Scan an NFC tag!!</string>
+    
+</resources>
